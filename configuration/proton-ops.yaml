@@ -1,0 +1,6 @@
+sync:
+  services:
+      poc-static-website:
+          alpha:
+              branch: master
+              spec: ./poc-static-website/spec.yaml
